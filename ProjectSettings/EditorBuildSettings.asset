@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bootstrap.unity
+    guid: da52c138d8ab39543885f0247ae4695c
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 0
+    path: Assets/Scenes/StartGame.unity
+    guid: 984cc7069ece78b4c8d8307fa91d7234
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 613c18148b979574db2be22974c396a7
+  - enabled: 1
+    path: Assets/Scenes/Continue.unity
+    guid: 136aadd52b1e2d14d92e8a4658d20513
+  - enabled: 0
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 9b09b09db8e9c3c48b3c1e7dd5ed1f94
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1.unity
+    guid: bfcfd07aa61c099459d69244c225b366
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 1ee40add76c942945805a5eb64210124
+  - enabled: 1
+    path: Assets/Scenes/Cutscene2.unity
+    guid: a806bb121cf525d4a81fc15d2adaca21
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: aff31100a35277741b477960a571d034
+  - enabled: 1
+    path: Assets/Scenes/Cutscene3.unity
+    guid: c1a054ec66369154d8a5f6cf6d76f78a
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 4c6fbc8b7f36a374682cd18c990114fe
+  - enabled: 1
+    path: Assets/Scenes/Endscene.unity
+    guid: 49b7fecd8a7be1a42bb604457a796cc5
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d968bf2c2d3dce4409daa4136b15502e, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 4e9caec90366d67478099144b5bd8b3e, type: 2}
